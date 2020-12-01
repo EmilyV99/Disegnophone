@@ -530,6 +530,7 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-74",
+									"knobcolor" : [ 1.0, 0.117647058823529, 0.92156862745098, 1.0 ],
 									"maxclass" : "gain~",
 									"multichannelvariant" : 1,
 									"numinlets" : 1,
@@ -606,6 +607,7 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-66",
+									"knobcolor" : [ 0.968627450980392, 0.968627450980392, 0.027450980392157, 1.0 ],
 									"maxclass" : "gain~",
 									"multichannelvariant" : 1,
 									"numinlets" : 1,
@@ -815,6 +817,7 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-17",
+									"knobcolor" : [ 0.184313725490196, 0.941176470588235, 0.941176470588235, 1.0 ],
 									"maxclass" : "gain~",
 									"multichannelvariant" : 1,
 									"numinlets" : 1,
@@ -866,6 +869,7 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-1",
+									"knobcolor" : [ 0.258823529411765, 0.894117647058824, 0.019607843137255, 1.0 ],
 									"maxclass" : "gain~",
 									"multichannelvariant" : 1,
 									"numinlets" : 1,
