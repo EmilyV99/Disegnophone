@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1298.0, 617.0 ],
+		"rect" : [ 34.0, 77.0, 898.0, 617.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1614,7 +1614,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 27.202136218547821, 3.915959143638588, 1301.063821196556091, 631.914889812469482 ],
 					"rightvalue" : 500,
-					"topvalue" : 128
+					"topvalue" : 117
 				}
 
 			}
@@ -1844,14 +1844,6 @@
 
 			}
  ],
-		"parameters" : 		{
-			"parameterbanks" : 			{
-
-			}
-,
-			"inherited_shortname" : 1
-		}
-,
 		"dependency_cache" : [  ],
 		"autosave" : 0,
 		"patchlinecolor" : [ 0.23921568627451, 0.23921568627451, 0.23921568627451, 1.0 ]
